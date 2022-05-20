@@ -23,7 +23,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Gus-Gus
+ * @author usuario
  */
 public class Ventana5 extends JFrame{
     private JPanel jPanelPrincipal;
